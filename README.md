@@ -1,4 +1,4 @@
-# Polynomial-Regression-Position-Level-vs-Salary-Predictio
+# Polynomial-Regression-Position-Level-vs-Salary-Prediction
 
 📘 Overview
 
